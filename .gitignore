@@ -1,0 +1,11 @@
+database/node_modules/
+database/yarn.lock
+data-generation/yarn.lock
+data-generation/node_modules/
+franch-fry/yarn.lock
+franch-fry/node_modules/
+franch-fry/config/
+models/yarn.lock
+models/node_modules/
+franch-fry/.next
+data-generation/config/

@@ -1,2 +1,2 @@
 # Franch-Fry
-Business-in-a-box prototype for analyzing franchisees. Great interview question
+Business-in-a-box solution for franchisee analysis. Great interview question.
